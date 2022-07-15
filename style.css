@@ -110,11 +110,24 @@ hr {
   margin-left: 30px;
 }
 
+.skill-list {
+  display: flex;
+}
+.skill-list h3 {
+  margin: 30px;
+  padding: 20px;
+  cursor: pointer;
+  font-size: 1.6rem;
+}
 .btn a {
   text-decoration: none;
   border-radius: 8;
 }
 
+.skill-row {
+  font-size: 1.5rem;
+  margin-top: 15px;
+}
 .intro {
   width: 30%;
   margin: auto;
